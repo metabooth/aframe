@@ -81,7 +81,7 @@
     "minifyify": "^7.3.3",
     "mocha": "^3.0.2",
     "replace-in-file": "^2.5.3",
-    "semistandard": "^9.0.0",
+    "semistandard": "^16.0.1",
     "shelljs": "^0.7.7",
     "shx": "^0.2.2",
     "sinon": "^1.17.5",
@@ -129,6 +129,6 @@
   },
   "engines": {
     "node": ">= 4.6.0",
-    "npm": "^2.15.9"
+    "npm": ">= 2.15.9"
   }
 }
